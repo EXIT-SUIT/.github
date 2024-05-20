@@ -17,6 +17,9 @@
 Here we will host the SDK and example projects as open source projects to enable the whole community to collaborate on EXIT-SUIT development.
 
 Get in touch with us on our discord if you'd like to get involved - https://discord.gg/UyR3xkXq
+
 Check our website for more information - https://exitsuit.com/
+
 Sign up to our Patreon for exclusive development updates and content - https://www.patreon.com/EXITSUIT
+
 Check out our videos to see the prototype suits in action and development - https://www.youtube.com/channel/UCGR0L7AUSLOgUJ-Km-9wv1Q
